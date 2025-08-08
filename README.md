@@ -155,7 +155,7 @@ Mini_Social_Media/
 - `PUT /api/users/follow/:id` - Follow/unfollow user
 - `GET /api/users/search` - Search users
 
-## 🎯 Usage
+## Usage
 
 1. **Registration/Login**: Create an account or log in to access the platform
 2. **Feed**: View and interact with posts from all users
