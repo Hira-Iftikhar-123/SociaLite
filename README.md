@@ -2,7 +2,7 @@
 
 A modern, full-stack social media application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring a beautiful pink and black theme.
 
-## 🚀 Features
+## Features
 
 ### Core Features
 - **Authentication**
@@ -48,7 +48,7 @@ A modern, full-stack social media application built with the MERN stack (MongoDB
   - Input validation
   - Error handling
 
-## 🎨 Design
+## Design
 
 The application features a modern, dark theme with:
 - **Primary Color**: Pink (#ec4899)
@@ -57,7 +57,7 @@ The application features a modern, dark theme with:
 - **Typography**: Clean, modern fonts
 - **Animations**: Smooth transitions and hover effects
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -114,7 +114,7 @@ npm install
 npm run dev
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Mini_Social_Media/
@@ -133,7 +133,7 @@ Mini_Social_Media/
 └── README.md
 ```
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - Register new user
@@ -155,7 +155,7 @@ Mini_Social_Media/
 - `PUT /api/users/follow/:id` - Follow/unfollow user
 - `GET /api/users/search` - Search users
 
-## 🎯 Usage
+## Usage
 
 1. **Registration/Login**: Create an account or log in to access the platform
 2. **Feed**: View and interact with posts from all users
@@ -164,19 +164,7 @@ Mini_Social_Media/
 5. **Profiles**: View and edit your profile, follow other users
 6. **Search**: Find posts and users using the search functionality
 
-## 🚀 Deployment
-
-### Backend Deployment
-1. Set up environment variables
-2. Deploy to platforms like Heroku, Railway, or DigitalOcean
-3. Configure MongoDB connection
-
-### Frontend Deployment
-1. Build the application: `npm run build`
-2. Deploy to platforms like Vercel, Netlify, or GitHub Pages
-3. Configure API endpoints
-
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -184,11 +172,11 @@ Mini_Social_Media/
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - React.js team for the amazing framework
 - TailwindCSS for the utility-first CSS framework
