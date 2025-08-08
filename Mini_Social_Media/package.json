@@ -1,0 +1,19 @@
+{
+  "name": "mini-social-media",
+  "version": "1.0.0",
+  "description": "A mini social media platform built with MERN stack",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["social-media", "mern", "react", "node", "express", "mongodb"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
